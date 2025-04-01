@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatModsComparer", "BeatModsComparer\BeatModsComparer.csproj", "{FF373101-9442-49D5-8194-FBC66C4FBBEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF373101-9442-49D5-8194-FBC66C4FBBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF373101-9442-49D5-8194-FBC66C4FBBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF373101-9442-49D5-8194-FBC66C4FBBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF373101-9442-49D5-8194-FBC66C4FBBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
